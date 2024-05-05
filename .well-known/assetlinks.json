@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.wazaki.quizy",
+    "sha256_cert_fingerprints":
+    ["F4:0B:65:22:37:52:98:6A:A0:30:55:6D:05:11:19:F5:A8:ED:BA:14:C1:E0:3B:8A:D2:07:27:6F:B4:B7:C8:CB"]
+  }
+}]
